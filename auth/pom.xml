@@ -14,9 +14,15 @@
 
     <properties>
         <java.version>11</java.version>
+        <devdojo-token.version>1.0-SNAPSHOT</devdojo-token.version>
     </properties>
 
     <dependencies>
+        <dependency>
+            <groupId>academy.devdojo.youtube</groupId>
+            <artifactId>token</artifactId>
+            <version>${devdojo-token.version}</version>
+        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>

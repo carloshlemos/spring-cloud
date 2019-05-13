@@ -1,3 +1,6 @@
 /home/carloshlemos/workspace/spring-cloud/core/src/main/java/academy/devdojo/youtube/core/repository/CourseRepository.java
+/home/carloshlemos/workspace/spring-cloud/core/src/main/java/academy/devdojo/youtube/core/repository/ApplicationUserRepository.java
 /home/carloshlemos/workspace/spring-cloud/core/src/main/java/academy/devdojo/youtube/core/model/AbstractEntity.java
+/home/carloshlemos/workspace/spring-cloud/core/src/main/java/academy/devdojo/youtube/core/model/ApplicationUser.java
 /home/carloshlemos/workspace/spring-cloud/core/src/main/java/academy/devdojo/youtube/core/model/Course.java
+/home/carloshlemos/workspace/spring-cloud/core/src/main/java/academy/devdojo/youtube/core/property/JwtConfiguration.java
